@@ -1,6 +1,6 @@
 # Kit de comandos
 <br>
-<p>Não está familiarizado com os comandos do CMD? Então use esse kit de comandos com funções em breve!</p>
+<p>Não está familiarizado com os comandos do CMD? Então use esse kit de comandos com funções úteis!</p>
 <br>
 <ul>
 <h1>COMO USAR</h1>
