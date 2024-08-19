@@ -5,7 +5,7 @@
 <ul>
 <h1>COMO USAR</h1>
 <li>
-Baixar no mínimo no diretório C:
+Baixar em alguma pasta criada no disco C:
 </li>
 <li>
 Pressionar Win + S e procurar "Editar as variáveis de ambiente do sistema" e clicar no botão "Variáveis de Ambiente..."
