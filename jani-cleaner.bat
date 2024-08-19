@@ -1,6 +1,6 @@
 @echo off
-REM Serviço de Limpeza de Arquivos Temporários
-echo Limpando arquivos temporários...
+REM Jani Cleaner
+echo Limpando arquivos inúteis...
 del /s /q %temp%\*
 echo Limpeza concluída!
 
